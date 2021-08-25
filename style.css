@@ -1,0 +1,31 @@
+text {
+	stroke: #333;
+stroke-width:0.5px;
+fill:#333;
+stroke-dasharray:600;
+stroke-dashoffset:600;
+animation:textAnime 5s linear;
+}
+@keyframes textAnime{
+	0%{
+		stroke-dasharray:600;
+stroke-dashoffset:
+}
+50%{
+	fill:transparent;
+}
+100%{
+stroke-dashoffset:0;
+
+fill:#333;
+}
+}
+html {
+    min-block-size: 100%;
+    min-inline-size: 100%;
+    margin: 10;
+    box-sizing: border-box;
+    display: grid;
+    place-content: center;
+    font-family: system-ui, sans-serif;
+  }
