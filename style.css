@@ -1,0 +1,23 @@
+
+html {
+  floot:left;
+  display:block;
+padding:10px 15px;
+text-align:center;
+text-decoration: none;
+border-right: 1px solid black;
+min-width:60px;
+}
+
+li a:hover{
+  background-image:("https://github.com/itou332/itou332a.github.io/issues/1#issue-982431700") ;
+}
+html {
+    min-block-size: 100%;
+    min-inline-size: 100%;
+    margin: 10;
+    box-sizing: border-box;
+    display: grid;
+    place-content: center;
+    font-family: system-ui, sans-serif;
+  }
