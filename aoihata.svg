@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.6mm"
+   height="16.599998mm"
+   viewBox="0 0 16.6 16.599999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="aoihata.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="7.8816614"
+     inkscape:cx="41.171523"
+     inkscape:cy="44.026251"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       x="-0.68571429"
+       width="2.3714286"
+       y="-0.68571429"
+       height="2.3714286"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15077">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15055" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15057" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15059" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15061" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15063" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15065" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15067" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15069" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15071"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15073"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15075" />
+    </filter>
+    <filter
+       x="-0.18144827"
+       width="1.3628964"
+       y="-0.18144827"
+       height="1.3628964"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15101">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15079" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15081" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15083" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15085" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15087" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15089" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15091" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15093" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15095"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15097"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15099" />
+    </filter>
+    <filter
+       x="-0.18144827"
+       width="1.3628964"
+       y="-0.18144827"
+       height="1.3628964"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15125">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15103" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15105" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15107" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15109" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15111" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15113" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15115" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15117" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15119"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15121"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15123" />
+    </filter>
+    <filter
+       x="-0.3069475"
+       width="1.6138951"
+       y="-0.3388634"
+       height="1.6777267"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15149">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15127" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15129" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15131" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15133" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15135" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15137" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15139" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15141" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15143"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15145"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15147" />
+    </filter>
+    <filter
+       x="-0.33459175"
+       width="1.6691835"
+       y="-0.30759919"
+       height="1.6151984"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15173">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15151" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15153" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15155" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15157" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15159" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15161" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15163" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15165" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15167"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15169"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15171" />
+    </filter>
+    <filter
+       x="-0.43054825"
+       width="1.8610965"
+       y="-0.46200764"
+       height="1.9240153"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15197">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15175" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15177" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15179" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15181" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15183" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15185" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15187" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15189" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15191"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15193"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15195" />
+    </filter>
+    <filter
+       x="-0.42841211"
+       width="1.8568242"
+       y="-0.42801625"
+       height="1.8560325"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15221">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15199" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15201" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15203" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15205" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15207" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15209" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15211" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15213" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15215"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15217"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15219" />
+    </filter>
+    <filter
+       x="-0.78816569"
+       width="2.5763314"
+       y="-2.9204169"
+       height="6.8408338"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15245">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15223" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15225" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15227" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15229" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15231" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15233" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15235" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15237" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15239"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15241"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15243" />
+    </filter>
+    <filter
+       x="-2.384061"
+       width="5.7681221"
+       y="-0.73599073"
+       height="2.4719815"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15269">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15247" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15249" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15251" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15253" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15255" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15257" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15259" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15261" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15263"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15265"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15267" />
+    </filter>
+    <filter
+       x="-1.5024452"
+       width="4.0048903"
+       y="-1.4320031"
+       height="3.8640063"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15293">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15271" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15273" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15275" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15277" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15279" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15281" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15283" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15285" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15287"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15289"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15291" />
+    </filter>
+    <filter
+       x="-6.4445272"
+       width="13.889054"
+       y="-4.5207556"
+       height="10.041511"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15317">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15295" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15297" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15299" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15301" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15303" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15305" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15307" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15309" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15311"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15313"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15315" />
+    </filter>
+    <filter
+       x="-0.33727232"
+       width="1.6745447"
+       y="-0.31001294"
+       height="1.6200259"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15341">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15319" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15321" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15323" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15325" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15327" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15329" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15331" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15333" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15335"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15337"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15339" />
+    </filter>
+    <filter
+       x="-0.43609405"
+       width="1.8721881"
+       y="-0.46927208"
+       height="1.9385442"
+       inkscape:menu-tooltip="Stone wall texture to use with not too saturated colors"
+       inkscape:menu="Textures"
+       inkscape:label="Stone Wall"
+       style="color-interpolation-filters:sRGB"
+       id="filter15365">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0.08 0.175"
+         seed="25"
+         id="feTurbulence15343" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         id="feColorMatrix15345" />
+      <feComposite
+         in="SourceGraphic"
+         operator="in"
+         in2="result5"
+         id="feComposite15347" />
+      <feMorphology
+         operator="dilate"
+         radius="0.65"
+         result="result3"
+         id="feMorphology15349" />
+      <feTurbulence
+         numOctaves="7"
+         baseFrequency="0.05 0.09"
+         type="fractalNoise"
+         seed="25"
+         id="feTurbulence15351" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result7"
+         id="feGaussianBlur15353" />
+      <feDisplacementMap
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="5"
+         result="result4"
+         in2="result7"
+         id="feDisplacementMap15355" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         id="feFlood15357" />
+      <feComposite
+         k3="0.7"
+         k1="0.7"
+         result="result2"
+         operator="arithmetic"
+         in2="result4"
+         id="feComposite15359"
+         k2="0"
+         k4="0" />
+      <feComposite
+         k2="1"
+         in="result2"
+         operator="arithmetic"
+         in2="SourceAlpha"
+         k1="1"
+         result="result6"
+         id="feComposite15361"
+         k3="0"
+         k4="0" />
+      <feBlend
+         mode="multiply"
+         in2="result6"
+         in="result6"
+         id="feBlend15363" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-80.12203,-205.20194)">
+    <path
+       style="fill:#ffff00;stroke-width:0.507507"
+       d=""
+       id="path71"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#1a1a1a;stroke-width:0.507507"
+       d=""
+       id="path644"
+       transform="scale(0.26458333)" />
+    <path
+       id="path79-3-4-6"
+       style="fill:#0044aa;stroke-width:0.0284243;filter:url(#filter15077)"
+       d="m 91.772084,215.20867 a 1.570858,1.570858 0 0 1 -1.363887,1.75357 1.570858,1.570858 0 0 1 -1.753569,-1.36388 1.570858,1.570858 0 0 1 1.363887,-1.75357 1.570858,1.570858 0 0 1 1.753569,1.36388 z m -3.570531,-3.60828 a 1.570858,1.570858 0 0 1 -1.570858,1.57085 1.570858,1.570858 0 0 1 -1.570858,-1.57085 1.570858,1.570858 0 0 1 1.570858,-1.57086 1.570858,1.570858 0 0 1 1.570858,1.57086 z m 3.692896,0.60629 a 2.1220363,2.1220363 0 0 1 -2.122036,2.12204 2.1220363,2.1220363 0 0 1 -2.122037,-2.12204 2.1220363,2.1220363 0 0 1 2.122037,-2.12203 2.1220363,2.1220363 0 0 1 2.122036,2.12203 z m -2.673215,2.6181 a 2.1220363,2.1220363 0 0 1 -2.122036,2.12204 2.1220363,2.1220363 0 0 1 -2.122036,-2.12204 2.1220363,2.1220363 0 0 1 2.122036,-2.12204 2.1220363,2.1220363 0 0 1 2.122036,2.12204 z m -4.299204,-4.82284 v 7 h 7 v -7 z m 4.74015,2.94884 a 1.570858,1.570858 0 0 0 -1.570854,1.57086 1.570858,1.570858 0 0 0 1.570854,1.57085 1.570858,1.570858 0 0 0 1.570856,-1.57085 1.570858,1.570858 0 0 0 -1.570856,-1.57086 z" />
+    <path
+       style="fill:#ffffff;stroke-width:0.0634384;filter:url(#filter15245)"
+       d="m 326.54917,805.59589 c -0.65736,-0.1259 -1.45908,-0.38261 -1.45908,-0.46719 0,-0.0732 0.69341,-0.42301 1.31196,-0.66189 0.87984,-0.3398 1.73961,-0.49557 2.7481,-0.49789 0.85956,-0.002 2.03003,0.15795 2.03003,0.27739 0,0.0886 -0.55716,0.47532 -1.08159,0.75072 -0.81498,0.42799 -1.47083,0.58787 -2.50268,0.6101 -0.48848,0.0105 -0.95951,0.005 -1.04674,-0.0112 z"
+       id="path3368"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke-width:0.0634384;filter:url(#filter15269)"
+       d="m 331.53919,803.87605 c -0.0241,-0.039 -0.0891,-0.36553 -0.1444,-0.7256 -0.27777,-1.80821 0.16661,-3.81959 1.20204,-5.44085 l 0.22065,-0.34549 0.10531,0.25034 c 0.16542,0.39321 0.34709,1.21764 0.39067,1.77285 0.11129,1.41801 -0.46828,3.1281 -1.42977,4.21864 -0.18544,0.21034 -0.31747,0.31385 -0.3445,0.27011 z"
+       id="path3444"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke-width:0.0634384;filter:url(#filter15293)"
+       d="m 333.2982,807.30124 c -0.68413,-0.80475 -1.40849,-2.07428 -1.58516,-2.77818 -0.0391,-0.15596 -0.0302,-0.1662 0.10874,-0.12497 0.0833,0.0247 0.44378,0.18302 0.80116,0.35182 0.70278,0.33193 1.36839,0.76812 1.91767,1.25671 l 0.34712,0.30876 -0.39463,0.43066 c -0.21704,0.23687 -0.47316,0.55498 -0.56915,0.70693 -0.096,0.15194 -0.19414,0.2763 -0.21812,0.27637 -0.024,6e-5 -0.20742,-0.19258 -0.40763,-0.4281 z"
+       id="path3483"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke-width:0.0634384;filter:url(#filter15317)"
+       d="m 335.50738,816.3563 c -0.067,-0.15659 -0.13804,-0.34179 -0.15777,-0.41158 -0.0197,-0.0698 -0.055,-0.19309 -0.0783,-0.27403 -0.0395,-0.13711 -0.0172,-0.13078 0.32802,0.0929 0.20374,0.132 0.38238,0.24822 0.39697,0.25826 0.0336,0.0231 -0.0911,0.25571 -0.24721,0.46136 l -0.1198,0.15782 z"
+       id="path3522"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>

@@ -1,20 +1,26 @@
+---
+layout: default
+title: 私の絵の記録　第4項
+description: PCで描いた絵をここに記録します。
+lang: ja_JP
+---
 <hedar>
 <link rel="stylesheet" href="style.css">
 <h1>4項目</h1>
-*献立
+<p>*献立
 -<a href="https://itou332.github.io/">1項目</a>
--<a href="C:\Users\user\Documents\GitHub\itou332a.github.io\index.html">2項目</a>
+-<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
+</p>
 </hedar>
 <head>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<meta name=”description” content=”
-隣に芝生は無い。＝the grass is always greener on the other side.”>
-</head>
+<!-- icon imge-->
+<linke rel = "short cut icon" type = "image/x-icon" href = "aoihata.svg">
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
@@ -237,7 +243,7 @@ for(var x=0;x<700;x++)
 <footer>
 *献立
 -<a href="https://itou332.github.io/">1項目</a>
--<a href="C:\Users\user\Documents\GitHub\itou332a.github.io\index.html">2項目</a>
+-<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
