@@ -21,7 +21,6 @@ lang: ja_JP
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <!-- icon imge-->
 <link rel="icon" href="img/favicon.svg" type=aoihata.svg"/svg+xml">
-<meta http-equiv="Content-Type"content="text/html;charset=utf-8">
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
@@ -29,7 +28,7 @@ lang: ja_JP
 <h3>2021.10/8</h3>
 
 <corde>
-<canvas id="myCanvas" width="150" height="150"></canvas>
+<canvas id="myCanvas" width="350" height="350"></canvas>
 <script>
 var canvas = document.getElementById('myCanvas');
 var context = canvas.getContext('2d');
