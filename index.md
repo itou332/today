@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 私の絵の記録　第4項
-description: PCで描いた絵をここに記録します。
+title: 私の絵の記録　第4項/My painting record, paragraph 4.
+description: PCで描いた絵をここに記録します。This item is a note for new ideas.
 lang: ja_JP
 ---
 <hedar>
@@ -21,7 +21,7 @@ lang: ja_JP
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <!-- Favicon head tag -->
 <link rel="icon" type="img/x-icon" href="./favicon.png">
-<meta name="keywords" content="4項,記録,私">
+<meta name="keywords" content="My painting record,記録,私">
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
