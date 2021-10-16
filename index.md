@@ -109,7 +109,7 @@ lang: ja_JP
   </g>
 </svg>
 
-<p>2021.10/14</p>
+<h3>2021.10/14</h3>
 <svg
    width="75.07812mm"
    height="150.578125mm"
@@ -6621,6 +6621,190 @@ or12ObxegMlg5dprrysc5iVhuKGBzrF/7D07ymGEW3bWMdD3gpdtE+mxyLogIdvA6WR7RPDpsTW3
   </g>
 </svg>
 
+<h3>2021.10/15</h3>
+
+<svg
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 139.58273 174.81564"
+   height="144.81564mm"
+   width="109.58273mm"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="jinzou.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.98520767"
+     inkscape:cx="369.97276"
+     inkscape:cy="310.59441"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1130">
+      <stop
+         style="stop-color:#808080;stop-opacity:1"
+         offset="0"
+         id="stop1126" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop1128" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient98">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop94" />
+      <stop
+         style="stop-color:#d7f4e3;stop-opacity:1"
+         offset="1"
+         id="stop96" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient98"
+       id="radialGradient100"
+       cx="114.49962"
+       cy="375.38477"
+       fx="114.49962"
+       fy="375.38477"
+       r="69.791364"
+       gradientTransform="matrix(-1.4366526,2.0134911,-1.0195081,-0.72742626,636.16709,220.96974)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1130"
+       id="linearGradient1902"
+       x1="125.67509"
+       y1="125.46191"
+       x2="3.4821527"
+       y2="278.80731"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:menu-tooltip="3D warped, iridescent pearly shell texture"
+       inkscape:menu="Materials"
+       inkscape:label="3D Mother of Pearl"
+       width="1.2765969"
+       x="-0.13830226"
+       height="1.2208106"
+       y="-0.11040643"
+       style="color-interpolation-filters:sRGB;"
+       id="filter3817">
+      <feGaussianBlur
+         result="result8"
+         stdDeviation="3"
+         id="feGaussianBlur3791" />
+      <feTurbulence
+         baseFrequency="0.03 0.03"
+         numOctaves="8"
+         type="fractalNoise"
+         result="result7"
+         seed="77"
+         id="feTurbulence3793" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.6 -0.6 "
+         result="result5"
+         id="feColorMatrix3795" />
+      <feComposite
+         in2="result8"
+         operator="in"
+         in="result7"
+         result="result6"
+         id="feComposite3797" />
+      <feDisplacementMap
+         in2="result6"
+         result="result4"
+         scale="60"
+         yChannelSelector="A"
+         xChannelSelector="A"
+         in="result5"
+         id="feDisplacementMap3799" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="2 0 0 0 4 0 0 0 -2 "
+         targetX="2"
+         targetY="2"
+         divisor="2"
+         result="result9"
+         id="feConvolveMatrix3801" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         in="result9"
+         result="result10"
+         id="feComposite3803" />
+      <feBlend
+         in2="result10"
+         mode="darken"
+         result="fbSourceGraphic"
+         id="feBlend3805" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="5"
+         id="feGaussianBlur3807" />
+      <feSpecularLighting
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="5"
+         lighting-color="rgb(242,215,108)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting3811">
+        <feDistantLight
+           azimuth="235"
+           elevation="60"
+           id="feDistantLight3809" />
+      </feSpecularLighting>
+      <feComposite
+         operator="in"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite3813" />
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite3815" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.1677129,-122.23924)">
+    <path
+       id="path31"
+       style="opacity:0.997669;fill:url(#radialGradient100);fill-rule:evenodd;stroke:url(#linearGradient1902);stroke-width:0.165;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:0, 0.165, 0.329999, 0.495001, 0.66, 0.825, 0.989999, 1.155, 1.32, 1.485, 1.65, 1.815, 1.98, 2.145, 2.31;stroke-dashoffset:0.2145;paint-order:stroke fill markers;fill-opacity:1;filter:url(#filter3817)"
+       d="m 63.595535,152.14236 c -19.025382,1.09564 -36.206302,15.98602 -39.962599,34.68197 -52.71387,195.28143 29.793759,69.45832 45.498169,78.80829 15.26991,9.50342 29.10627,-14.74517 43.132605,-26.09902 14.27436,-11.08849 38.41628,-96.29556 32.48602,-113.44314 -5.39868,-16.58135 -57.359365,26.98026 -74.867695,26.05441 -2.09215,-0.14533 -4.19417,-0.14348 -6.2865,-0.002 z"
+       sodipodi:nodetypes="scccccss" />
+  </g>
+</svg>
 
 </body>
 <footer>
