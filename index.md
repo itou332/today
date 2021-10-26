@@ -20650,7 +20650,7 @@ EARBEARBEARBEARBEARBEARBEARBEARBEARBEARBkB8shPz/TXIUgOVJI08AAAAASUVORK5CYII=
 -<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
--<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
+-<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
 <div>
