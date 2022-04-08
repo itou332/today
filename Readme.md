@@ -12,4 +12,4 @@
 -<a href="http://itou33good.starfree.jp/">itou</a>
 </p>
 <hr>
-***こちらは4項目めになります。***
+***こちらは4項目になります。***
