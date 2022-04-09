@@ -33,7 +33,6 @@ lang: ja_JP
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-YWDRL1ZXBE');
 </script>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
