@@ -11,8 +11,8 @@ lang: ja_JP
 ---
 <hedar>
 <h1>4項</h1>
-<p>
-*献立
+<nav aria-label="サイト内メニュー">
+ *献立
     -<a href="https://itou332.github.io/top_page/">主項</a>
     -<a href="https://itou332.github.io/">1項</a>
     -<a href="https://itou332.github.io/itou332a.github.io/">2項</a>
@@ -26,10 +26,11 @@ lang: ja_JP
     -<a href="https://itou332.github.io/walk/">10項</a>
     -<a href="https://itou332.github.io/pine/">11項</a>
     -<a href="https://itou332.github.io/banboo/">12項</a>
+    -<a href="https://itou332.github.io/pulm/">13項</a>
     -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
-</p>
+    </nav>
 </hedar>
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -38363,8 +38364,8 @@ goJ4C22Hl4AzIBtMlMLhXjgvxkwK3h4Z/v8CEV04hs5P+eQAAAAASUVORK5CYII=
 
 </body>
 <footer>
-<p>
-*献立
+<nav aria-label="サイト内メニュー">
+ *献立
     -<a href="https://itou332.github.io/top_page/">主項</a>
     -<a href="https://itou332.github.io/">1項</a>
     -<a href="https://itou332.github.io/itou332a.github.io/">2項</a>
@@ -38378,10 +38379,11 @@ goJ4C22Hl4AzIBtMlMLhXjgvxkwK3h4Z/v8CEV04hs5P+eQAAAAASUVORK5CYII=
     -<a href="https://itou332.github.io/walk/">10項</a>
     -<a href="https://itou332.github.io/pine/">11項</a>
     -<a href="https://itou332.github.io/banboo/">12項</a>
+    -<a href="https://itou332.github.io/pulm/">13項</a>
     -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
-</p>
+    </nav>
 <div>
   <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
    <text x="0" y="30" transform="rotate(45 40,40)">
