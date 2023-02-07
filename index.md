@@ -8298,18 +8298,18 @@ or12ObxegMlg5dprrysc5iVhuKGBzrF/7D07ymGEW3bWMdD3gpdtE+mxyLogIdvA6WR7RPDpsTW3
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="">
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/10_24_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="">
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/10_24_en.wav">
     </audio>
 </figure>
 </details>
 
 <br>
-<!--なんだかよくわからないものの集合たい-->
+<!--なんだかよくわからないものの集合たい。二つの画像を重ね合わせてある。片方は水面のような絵、もう片方森林のような絵-->
 <svg
    width="157.36667mm"
    height="99.6916mm"
