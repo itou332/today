@@ -1,15 +1,30 @@
-
-html {
-  floot:none;
-  display:block;
-padding:10px 15px;
-text-align:center;
-text-decoration: none;
-min-width:60px;
-font-size: 15px;
+BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P,ul,li{ 
+  font-family:"Times New Roman"; font-size:x-small ;
 }
 
 body{
-font-family: "MS明朝";  
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
+SVG {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 h3 p a div{ 
+      text-align: center ;
+  }   
+
+.container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+svg,script {
+      margin:  auto;  /* ボックス中央寄せ */
+  }
